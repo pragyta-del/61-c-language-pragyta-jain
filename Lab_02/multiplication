@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+printf("pragytajain");
+int a=8;
+int b=7;
+int c;
+c=a*b;
+printf("%d",c);
+return 0;
+}
